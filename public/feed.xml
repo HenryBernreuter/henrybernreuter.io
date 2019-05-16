@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-25T10:45:39-05:00</updated><id>http://localhost:4000/</id><title type="html">Henry Bernreuter Data Portfolio</title><subtitle>Data Science Portfolio</subtitle><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><entry><title type="html">Under Construction</title><link href="http://localhost:4000/perceptron/" rel="alternate" type="text/html" title="Under Construction" /><published>2018-01-28T00:00:00-05:00</published><updated>2018-01-28T00:00:00-05:00</updated><id>http://localhost:4000/perceptron</id><content type="html" xml:base="http://localhost:4000/perceptron/">&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-16T15:17:33-04:00</updated><id>http://localhost:4000/</id><title type="html">Henry Bernreuter Data Portfolio</title><subtitle>Data Science Portfolio</subtitle><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><entry><title type="html">Update Page Cheat Sheet</title><link href="http://localhost:4000/update-page-cheat-sheet/" rel="alternate" type="text/html" title="Update Page Cheat Sheet" /><published>2019-05-16T14:33:00-04:00</published><updated>2019-05-16T14:33:00-04:00</updated><id>http://localhost:4000/update-page-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/update-page-cheat-sheet/">&lt;h1 id=&quot;update-process-notes&quot;&gt;Update Process Notes&lt;/h1&gt;
+&lt;p&gt;Open command line&lt;/p&gt;
+
+&lt;p&gt;cd desktop&lt;/p&gt;
+
+&lt;p&gt;cd file folder&lt;/p&gt;
+
+&lt;p&gt;bundle exec jekyll post “post name”&lt;/p&gt;
+
+&lt;p&gt;run preview server&lt;/p&gt;
+
+&lt;p&gt;bundle exec jekyll serve&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-properties&quot;&gt;Front matter properties&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When done with changes&lt;/p&gt;
+
+&lt;p&gt;open pathway on command line
+cd desktop&lt;/p&gt;
+
+&lt;p&gt;cd file folder&lt;/p&gt;
+
+&lt;p&gt;git status&lt;/p&gt;
+
+&lt;p&gt;git add - -all&lt;/p&gt;
+
+&lt;p&gt;git commit -m “name of post”&lt;/p&gt;
+
+&lt;h3 id=&quot;add-a-page&quot;&gt;Add a Page&lt;/h3&gt;
+&lt;p&gt;Open command line&lt;/p&gt;
+
+&lt;p&gt;cd desktop&lt;/p&gt;
+
+&lt;p&gt;cd file folder&lt;/p&gt;
+
+&lt;p&gt;bundle exec jekyll page “projects”&lt;/p&gt;
+
+&lt;h3 id=&quot;publish-to-the-web&quot;&gt;Publish to the web&lt;/h3&gt;
+&lt;p&gt;Open command line&lt;/p&gt;
+
+&lt;p&gt;cd desktop&lt;/p&gt;
+
+&lt;p&gt;cd file folder&lt;/p&gt;
+
+&lt;p&gt;bundle exec jekyll build&lt;/p&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="data wrangling" /><category term="data science" /><category term="data analytics" /><summary type="html">Data Wrangling, Data Science, Data Visualizations</summary></entry><entry><title type="html">Under Construction</title><link href="http://localhost:4000/perceptron/" rel="alternate" type="text/html" title="Under Construction" /><published>2018-01-28T00:00:00-05:00</published><updated>2018-01-28T00:00:00-05:00</updated><id>http://localhost:4000/perceptron</id><content type="html" xml:base="http://localhost:4000/perceptron/">&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
 
