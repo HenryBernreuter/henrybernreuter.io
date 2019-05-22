@@ -1,3 +1,13 @@
+---
+layout: posts
+title: Update Page Cheat Sheet
+date: 2019-05-22 14:33 -0400
+tags: [data wrangling, data science, data analytics]
+header:
+  image: "/images/perceptron/percept.jpg"
+excerpt: "Data Wrangling, Data Science, Data Visualizations"
+mathjax: "true"
+---
 
 Project 1 CTW Directed Readings 4999
 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3
