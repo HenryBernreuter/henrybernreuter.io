@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-16T15:37:24-04:00</updated><id>http://localhost:4000/</id><title type="html">Henry Bernreuter Data Portfolio</title><subtitle>Data Science Portfolio</subtitle><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><entry><title type="html">Update Page Cheat Sheet</title><link href="http://localhost:4000/update-page-cheat-sheet/" rel="alternate" type="text/html" title="Update Page Cheat Sheet" /><published>2019-05-16T14:33:00-04:00</published><updated>2019-05-16T14:33:00-04:00</updated><id>http://localhost:4000/update-page-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/update-page-cheat-sheet/">&lt;h1 id=&quot;update-process-notes&quot;&gt;Update Process Notes&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-22T15:02:45-04:00</updated><id>/</id><title type="html">Henry Bernreuter Data Portfolio</title><subtitle>Data Science Portfolio</subtitle><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><entry><title type="html">Update Page Cheat Sheet</title><link href="/update-page-cheat-sheet/" rel="alternate" type="text/html" title="Update Page Cheat Sheet" /><published>2019-05-16T14:33:00-04:00</published><updated>2019-05-16T14:33:00-04:00</updated><id>/update-page-cheat-sheet</id><content type="html" xml:base="/update-page-cheat-sheet/">&lt;h1 id=&quot;update-process-notes&quot;&gt;Update Process Notes&lt;/h1&gt;
 &lt;p&gt;Open command line&lt;/p&gt;
 
 &lt;p&gt;cd desktop&lt;/p&gt;
@@ -43,7 +43,7 @@ cd desktop&lt;/p&gt;
 
 &lt;p&gt;cd file folder&lt;/p&gt;
 
-&lt;p&gt;bundle exec jekyll build&lt;/p&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="data wrangling" /><category term="data science" /><category term="data analytics" /><summary type="html">Data Wrangling, Data Science, Data Visualizations</summary></entry><entry><title type="html">Under Construction</title><link href="http://localhost:4000/perceptron/" rel="alternate" type="text/html" title="Under Construction" /><published>2018-01-28T00:00:00-05:00</published><updated>2018-01-28T00:00:00-05:00</updated><id>http://localhost:4000/perceptron</id><content type="html" xml:base="http://localhost:4000/perceptron/">&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+&lt;p&gt;bundle exec jekyll build&lt;/p&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="data wrangling" /><category term="data science" /><category term="data analytics" /><summary type="html">Data Wrangling, Data Science, Data Visualizations</summary></entry><entry><title type="html">Under Construction</title><link href="/perceptron/" rel="alternate" type="text/html" title="Under Construction" /><published>2018-01-28T00:00:00-05:00</published><updated>2018-01-28T00:00:00-05:00</updated><id>/perceptron</id><content type="html" xml:base="/perceptron/">&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
 
@@ -88,10 +88,10 @@ cd desktop&lt;/p&gt;
 &lt;p&gt;Here’s some inline code &lt;code class=&quot;highlighter-rouge&quot;&gt;x+y&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here’s an image:
-&lt;img src=&quot;http://localhost:4000/images/perceptron/linsep.jpg&quot; alt=&quot;linearly separable data&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/perceptron/linsep.jpg&quot; alt=&quot;linearly separable data&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s another image using Kramdown:
-&lt;img src=&quot;http://localhost:4000/images/perceptron/linsep.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/perceptron/linsep.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s some math:&lt;/p&gt;
 

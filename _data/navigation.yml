@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Web Analytics"
+  - title: "Resume"
     url: https://github.com/HenryBernreuter/Web_Analytics_With_Python
-  - title: "Machine Learning Projects"
+  - title: "Python and R Notebooks"
     url: https://github.com/HenryBernreuter/Machine_Learning_Projects
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
