@@ -1,14 +1,9 @@
 ---
 layout: posts
-title: Update Page Cheat Sheet
-date: 2019-05-22 14:33 -0400
-tags: [data wrangling, data science, data analytics]
-header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Data Visualizations"
-mathjax: "true"
+title: Facebook Analytics using ggplot in Python
+tags: [python ggplot, python in r, data analytics]
+date: 2019-05-23 11:15 -0400
 ---
-
 Project 1 CTW Directed Readings 4999
 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3
 
@@ -78,9 +73,8 @@ print(df.dtypes)
 
 2.Bar chart
 
-
 ```python
-ggplot(df, aes(x='Posts')) + geom_histogram(bins=10)+  ggtitle("Posts")
+    ggplot(df, aes(x='Posts')) + geom_histogram(bins=10)+  ggtitle("Posts")
 ```
 
 
@@ -90,7 +84,7 @@ ggplot(df, aes(x='Posts')) + geom_histogram(bins=10)+  ggtitle("Posts")
 
 
 
-    <ggplot: (20522513)>
+
 
 
 
@@ -111,7 +105,7 @@ ggplot(df, aes(x='Posts', y='Reactions')) + geom_point(shape=5, color="blue")
 
 
 
-    <ggplot: (21529325)>
+
 
 
 
@@ -135,7 +129,7 @@ ggplot(aes(x='x'), data=df) +\
 
 
 
-    <ggplot: (21556927)>
+
 
 
 
@@ -157,7 +151,7 @@ ggplot(df, aes(x='Reactions', y='Comments')) +\
 
 
 
-    <ggplot: (5321505)>
+    
 
 
 
