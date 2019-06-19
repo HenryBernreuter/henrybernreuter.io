@@ -7,7 +7,7 @@ date: 2019-05-23 11:15 -0400
 Project 1 CTW Directed Readings 4999
 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3
 
-1.Import data using pandas. Facebook downloads data as a .xls. In order to use the data must me cleaned and merged into a .csv file format.
+1.Import data using pandas. Facebook downloads data as a .xls. In order to use the data it must be cleaned and merged into a .csv file format.
 
 
 ```python
@@ -90,9 +90,9 @@ print(df.dtypes)
 
 
 ```python
-3.Scatter Chart
-```
 
+```
+3.Scatter Chart
 
 ```python
 ggplot(df, aes(x='Posts', y='Reactions')) + geom_point(shape=5, color="blue")
@@ -111,9 +111,9 @@ ggplot(df, aes(x='Posts', y='Reactions')) + geom_point(shape=5, color="blue")
 
 
 ```python
-4.Line Chart
-```
 
+```
+4.Line Chart with dotted line and arrow points
 
 ```python
 df['Date'] = df.index
@@ -135,9 +135,9 @@ ggplot(aes(x='x'), data=df) +\
 
 
 ```python
-5.Histograph
-```
 
+```
+5.Histograph
 
 ```python
 ggplot(df, aes(x='Reactions', y='Comments')) +\
@@ -151,7 +151,7 @@ ggplot(df, aes(x='Reactions', y='Comments')) +\
 
 
 
-    
+
 
 
 
