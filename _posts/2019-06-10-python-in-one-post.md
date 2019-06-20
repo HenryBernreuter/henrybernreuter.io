@@ -15660,7 +15660,7 @@ for different values.</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>See my Story and Support my efforts here:</p>
-<p><a href="https://www.gofundme.com/manage/digital-inovation-masters-degree">https://www.gofundme.com/manage/digital-inovation-masters-degree</a></p>
+<p><a href="https://www.gofundme.com/digital-inovation-masters-degree">https://www.gofundme.com/digital-inovation-masters-degree</a></p>
 
 </div>
 </div>
