@@ -18,4 +18,9 @@ var store = [{
         "excerpt":"Python in One Post This tutorial is for anyone that is a beginner to programming.It is designed to help you get started immeidately working on python projects. It is not intended as a complete course. Good Luck, Remember first rule in programming:Don't Panic&#182;If you would like me to make more...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/python-in-one-post/",
+        "teaser":null},{
+        "title": "Cool Data Visualizations in Python (code Included)",
+        "excerpt":"Cool Data Visualizations in Python (code included). Support my efforts and see my story at the bottom of the page.&#182;In&nbsp;[23]: # Importing libsimport seaborn as snsimport matplotlib.pyplot as pltfrom scipy.stats import skewnorm# Create the dataspeed = skewnorm.rvs(4, size=50)size = skewnorm.rvs(4, size=50)# Create and show the 2D Density plotax = sns.kdeplot(speed,...","categories": [],
+        "tags": ["Henry Bernreuter"],
+        "url": "http://localhost:4000/cool-data-visualizations-in-python-code-included/",
         "teaser":null}]
