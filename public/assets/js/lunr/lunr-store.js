@@ -1,6 +1,6 @@
 var store = [{
         "title": "Resume",
-        "excerpt":"=========================Education 2014-2019 Bachelor of Interdisciplinary Studies, concentration in Game Design an Development Georgia State UniversityGPA: 3.25 ExperienceDisturbed Media:Tampa Bay, Florida Launched immersive customer experiences across digital, mobile, and store touch-points &amp; developing next-generation customer journey/contextual marketing solutions Prepared sales activity and performance reports Reduced response time for customer issuesRobinson Gaming...","categories": [],
+        "excerpt":"=========================Education 2014-2019 Bachelor of Interdisciplinary Studies, concentration in Game Design and Development Georgia State UniversityGPA: 3.25 ExperienceDisturbed Media:Tampa Bay, Florida Launched immersive customer experiences across digital, mobile, and store touch-points &amp; developing next-generation customer journey/contextual marketing solutions Prepared sales activity and performance reports Reduced response time for customer issuesRobinson Gaming...","categories": [],
         "tags": ["Henry Bernreuter"],
         "url": "http://localhost:4000/resume/",
         "teaser":null},{
@@ -23,4 +23,9 @@ var store = [{
         "excerpt":"Cool Data Visualizations in Python (code included). Support my efforts and see my story at the bottom of the page.&#182;In&nbsp;[23]: # Importing libsimport seaborn as snsimport matplotlib.pyplot as pltfrom scipy.stats import skewnorm# Create the dataspeed = skewnorm.rvs(4, size=50)size = skewnorm.rvs(4, size=50)# Create and show the 2D Density plotax = sns.kdeplot(speed,...","categories": [],
         "tags": ["Henry Bernreuter"],
         "url": "http://localhost:4000/cool-data-visualizations-in-python-code-included/",
+        "teaser":null},{
+        "title": "R in One Post",
+        "excerpt":"R in One PostCode Show All CodeHide All CodeDownload RmdGetting StartedThis tutorial is desgined for the beginner who has some computer programming experience. Remember rule number one in ProgrammingDont PanicDownload RStudion Here https://www.rstudio.com/products/rstudio/download/Storing ValuesTypes of variablesinteger &lt;- 1double &lt;- 5.0character &lt;- &quot;A&quot;string &lt;- &quot;ABCDEFGHIJKLMNOQRSTUVWXYZ&quot;boolean &lt;- TRUEdata &lt;- list(12,3.14,&quot;Henry&quot;,&quot;Bernreuter&quot;)data_1 &lt;- list(dozen...","categories": [],
+        "tags": ["r","data analytics"],
+        "url": "http://localhost:4000/r-in-one-post/",
         "teaser":null}]

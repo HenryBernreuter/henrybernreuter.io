@@ -21,9 +21,16 @@
 <lastmod>2019-07-03T12:11:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/r-in-one-post/</loc>
+<lastmod>2019-07-23T16:41:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/data-wrangling/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
