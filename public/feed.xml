@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-24T11:03:31-04:00</updated><id>http://localhost:4000/</id><title type="html">Henry Bernreuter Data Portfolio</title><subtitle>Data Science Portfolio</subtitle><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><entry><title type="html">R in One Post</title><link href="http://localhost:4000/r-in-one-post/" rel="alternate" type="text/html" title="R in One Post" /><published>2019-07-23T16:41:00-04:00</published><updated>2019-07-23T16:41:00-04:00</updated><id>http://localhost:4000/r-in-one-post</id><content type="html" xml:base="http://localhost:4000/r-in-one-post/">&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-29T09:15:33-05:00</updated><id>http://localhost:4000/</id><title type="html">Henry Bernreuter Data Portfolio</title><subtitle>Data Science Portfolio</subtitle><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><entry><title type="html">Resume</title><link href="http://localhost:4000/resume/" rel="alternate" type="text/html" title="Resume" /><published>2020-05-27T13:33:00-05:00</published><updated>2020-05-27T13:33:00-05:00</updated><id>http://localhost:4000/resume</id><content type="html" xml:base="http://localhost:4000/resume/">&lt;h1 id=&quot;summary&quot;&gt;&lt;strong&gt;SUMMARY&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;I am self-motivated team player looking to facilitate change in a business environment using artificial intelligence and machine learning algorithms I have industry experience in advanced analytics by means of structured and unstructured data, as well as software development by means of the Agile methodology. I am skilled in advanced data programming, application development, data modeling, machine learning, project management, Tableau, SPARK, Python, and Hadoop. I am experienced in handling both process-centric and customer-centric technical needs, facilitating cross-functional team discussions to resolve defects for faster delivery.&lt;/p&gt;
+
+&lt;h1 id=&quot;education&quot;&gt;&lt;strong&gt;EDUCATION&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Georgia State University, Atlanta GA:&lt;/strong&gt; Expected Graduation: May 2021&lt;/p&gt;
+
+&lt;p&gt;Master of Science in Information Systems GPA: 3.25&lt;/p&gt;
+
+&lt;p&gt;Concentration: Big Data Management and Analytics&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Georgia State University, Atlanta GA:&lt;/strong&gt; Graduated: December 2019&lt;/p&gt;
+
+&lt;p&gt;Bachelor of Interdisciplinary Studies GPA: 3.33&lt;/p&gt;
+
+&lt;p&gt;Concentration: Game Design and Development&lt;/p&gt;
+
+&lt;h1 id=&quot;core-competencies&quot;&gt;&lt;strong&gt;CORE COMPETENCIES&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python (NumPy, Pandas, Scikit-learn, Matplotlib, NLTK), R Programming, SQL, HTML, CSS, Java, MongoDB, PySpark, JSON&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Tableau, R Studio, Adobe Illustrator, Adobe Premiere, Adobe Elements, Neo4j, SQL Server, Jupiter Notebook,
+Eclipse IDE Oracle, SQL Developer, Microsoft Excel, Microsoft Office, GIT, BASH, Unity, Unreal Engine&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Databricks, Oracle, GitHub, Anaconda&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Machine Learning:&lt;/strong&gt; Decision Trees, Random Forest, KNN, Naïve Bayes, SVM&lt;/p&gt;
+
+&lt;h1 id=&quot;experience&quot;&gt;&lt;strong&gt;EXPERIENCE&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Career Advisement Center –&lt;/strong&gt; &lt;em&gt;Graduate Research Assistant&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Presented Data Analytic reports to Director
+Strategy Content Creation
+Aided in business functions hosted by RCB in technical and non-technical roles for event functions
+Active participation in networking functions for students, faculty, and industry professionals&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DeOhG.ai –&lt;/strong&gt; &lt;em&gt;Artificial Intelligence Engineer&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Built voice recognition software to predict speech patterns in children
+Building computer vision software to identify possible threats to children
+Gained experience on agile testing methodology, and formed various project artifacts
+Demonstrated automation benefit by developing Proof of Concept&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Robinson Gaming Industries –&lt;/strong&gt; &lt;em&gt;Game Engineer&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Saved 40% of testing time by designing/developing automation scripts
+Point of contact between clients, for getting the required application accesses, worked on Requirement Gathering,
+Knowledge Transfer and daily, weekly and monthly status calls
+Independently devised and applied various frontend pages while supporting Developed UI/UX experiences&lt;/p&gt;
+
+&lt;h1 id=&quot;personal-projects&quot;&gt;&lt;strong&gt;PERSONAL PROJECTS&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;facebook-group-gsu-textbook-buy-sell-trade&quot;&gt;Facebook Group: GSU Textbook Buy Sell Trade&lt;/h2&gt;
+
+&lt;p&gt;Set Up an Online Marketplace for students to sell books
+Grew community to over 2600 members applying social media analytic techniques&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;henrybernreuter.com&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coded and hosted site on GitHub in JavaScript on the Ruby Framework
+Produced tutorials for Python, R and Kaggle competitions
+Constructed Animations for time series analysis in Blender
+Built a functional email system, including both the conceptual and logical models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Titanic Predictive App&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed an UX interface that accurately predicts survivability of Titanic disaster
+Lead a team of 2 students to design and deliver a working prototype&lt;/p&gt;
+
+&lt;h2 id=&quot;database-management-system&quot;&gt;Database Management System&lt;/h2&gt;
+
+&lt;p&gt;Produced a fully functional database system
+Optimized data intake process and analysis
+Established the SQL code for tables and relationships between the tables and tested queries with sample data&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Analysis and Visualization&lt;/strong&gt;
+Conducted exploratory data analysis and data cleaning, predictive machine learning analysis on Titanic Survivability Kaggle competition&lt;/p&gt;
+
+&lt;h2 id=&quot;amazon-review-analysis-using-mongodb&quot;&gt;Amazon review analysis using MongoDB&lt;/h2&gt;
+
+&lt;p&gt;Generated insights from reviews applying text and non-text-based analysis
+Restructured dataset into a flat file for analysis and uniquely identify metrics&lt;/p&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="Henry Bernreuter" /><summary type="html">SUMMARY</summary></entry><entry><title type="html">R in One Post</title><link href="http://localhost:4000/r-in-one-post/" rel="alternate" type="text/html" title="R in One Post" /><published>2019-07-23T15:41:00-05:00</published><updated>2019-07-23T15:41:00-05:00</updated><id>http://localhost:4000/r-in-one-post</id><content type="html" xml:base="http://localhost:4000/r-in-one-post/">&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
 
 &lt;head&gt;
 
@@ -1050,7 +1133,7 @@ $(document).ready(function () {
 &lt;/script&gt;
 
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="r" /><category term="data analytics" /><summary type="html"></summary></entry><entry><title type="html">Cool Data Visualizations in Python (code Included)</title><link href="http://localhost:4000/cool-data-visualizations-in-python-code-included/" rel="alternate" type="text/html" title="Cool Data Visualizations in Python (code Included)" /><published>2019-07-03T12:11:00-04:00</published><updated>2019-07-03T12:11:00-04:00</updated><id>http://localhost:4000/cool-data-visualizations-in-python-code-included</id><content type="html" xml:base="http://localhost:4000/cool-data-visualizations-in-python-code-included/">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="r" /><category term="data analytics" /><summary type="html"></summary></entry><entry><title type="html">Cool Data Visualizations in Python (code Included)</title><link href="http://localhost:4000/cool-data-visualizations-in-python-code-included/" rel="alternate" type="text/html" title="Cool Data Visualizations in Python (code Included)" /><published>2019-07-03T11:11:00-05:00</published><updated>2019-07-03T11:11:00-05:00</updated><id>http://localhost:4000/cool-data-visualizations-in-python-code-included</id><content type="html" xml:base="http://localhost:4000/cool-data-visualizations-in-python-code-included/">&lt;html&gt;
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 
 &lt;title&gt;Cool Data Visualizations in Python (code included).&lt;/title&gt;
@@ -14676,7 +14759,7 @@ div#notebook {
 
 
 
-&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="Henry Bernreuter" /><summary type="html">Data Science, Python, Data Visualizations</summary></entry><entry><title type="html">Python in One Post</title><link href="http://localhost:4000/python-in-one-post/" rel="alternate" type="text/html" title="Python in One Post" /><published>2019-06-10T11:54:00-04:00</published><updated>2019-06-10T11:54:00-04:00</updated><id>http://localhost:4000/python-in-one-post</id><content type="html" xml:base="http://localhost:4000/python-in-one-post/">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="Henry Bernreuter" /><summary type="html">Data Science, Python, Data Visualizations</summary></entry><entry><title type="html">Python in One Post</title><link href="http://localhost:4000/python-in-one-post/" rel="alternate" type="text/html" title="Python in One Post" /><published>2019-06-10T10:54:00-05:00</published><updated>2019-06-10T10:54:00-05:00</updated><id>http://localhost:4000/python-in-one-post</id><content type="html" xml:base="http://localhost:4000/python-in-one-post/">&lt;html&gt;
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 
 &lt;title&gt;Python in One Post&lt;/title&gt;
@@ -30354,7 +30437,7 @@ for different values.&lt;/p&gt;
 
 
 
-&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">Facebook Analytics using ggplot in Python</title><link href="http://localhost:4000/facebook-analytics-using-ggplot-in-python/" rel="alternate" type="text/html" title="Facebook Analytics using ggplot in Python" /><published>2019-05-23T11:15:00-04:00</published><updated>2019-05-23T11:15:00-04:00</updated><id>http://localhost:4000/facebook-analytics-using-ggplot-in-python</id><content type="html" xml:base="http://localhost:4000/facebook-analytics-using-ggplot-in-python/">&lt;p&gt;Project 1 CTW Directed Readings 4999
+&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">Facebook Analytics using ggplot in Python</title><link href="http://localhost:4000/facebook-analytics-using-ggplot-in-python/" rel="alternate" type="text/html" title="Facebook Analytics using ggplot in Python" /><published>2019-05-23T10:15:00-05:00</published><updated>2019-05-23T10:15:00-05:00</updated><id>http://localhost:4000/facebook-analytics-using-ggplot-in-python</id><content type="html" xml:base="http://localhost:4000/facebook-analytics-using-ggplot-in-python/">&lt;p&gt;Project 1 CTW Directed Readings 4999
 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3&lt;/p&gt;
 
 &lt;p&gt;1.Import data using pandas. Facebook downloads data as a .xls. In order to use the data it must be cleaned and merged into a .csv file format.&lt;/p&gt;
@@ -30458,7 +30541,7 @@ dtype: object
 &lt;p&gt;&lt;img src=&quot;/images/output_10_0.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="python ggplot" /><category term="python in r" /><category term="data analytics" /><summary type="html">Project 1 CTW Directed Readings 4999 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3</summary></entry><entry><title type="html">Kaggle Titanic Solution In Python</title><link href="http://localhost:4000/kaggle-titanic-solution-in-python/" rel="alternate" type="text/html" title="Kaggle Titanic Solution In Python" /><published>2019-05-23T00:00:00-04:00</published><updated>2019-05-23T00:00:00-04:00</updated><id>http://localhost:4000/kaggle-titanic-solution-in-python</id><content type="html" xml:base="http://localhost:4000/kaggle-titanic-solution-in-python/">&lt;html&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="python ggplot" /><category term="python in r" /><category term="data analytics" /><summary type="html">Project 1 CTW Directed Readings 4999 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3</summary></entry><entry><title type="html">Kaggle Titanic Solution In Python</title><link href="http://localhost:4000/kaggle-titanic-solution-in-python/" rel="alternate" type="text/html" title="Kaggle Titanic Solution In Python" /><published>2019-05-23T00:00:00-05:00</published><updated>2019-05-23T00:00:00-05:00</updated><id>http://localhost:4000/kaggle-titanic-solution-in-python</id><content type="html" xml:base="http://localhost:4000/kaggle-titanic-solution-in-python/">&lt;html&gt;
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 
 &lt;title&gt;titanic-solution&lt;/title&gt;
@@ -48881,55 +48964,4 @@ this was made following along with his youtube tutorial found here:
 
 
 
-&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">Resume</title><link href="http://localhost:4000/resume/" rel="alternate" type="text/html" title="Resume" /><published>2019-05-16T14:33:00-04:00</published><updated>2019-05-16T14:33:00-04:00</updated><id>http://localhost:4000/resume</id><content type="html" xml:base="http://localhost:4000/resume/">&lt;p&gt;&lt;span style=&quot;color:black&quot;&gt;=========================&lt;/span&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;education&quot;&gt;&lt;span style=&quot;color:darkblue&quot;&gt;Education&lt;/span&gt;&lt;/h2&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;2014-2019&lt;/dt&gt;
-  &lt;dd&gt;Bachelor of Interdisciplinary Studies, concentration in Game Design and Development
-
-    &lt;p&gt;Georgia State University
-GPA: 3.25&lt;/p&gt;
-  &lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2 id=&quot;experience&quot;&gt;&lt;span style=&quot;color:darkblue&quot;&gt;Experience&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Disturbed Media:
-Tampa Bay, Florida&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Launched immersive customer experiences across digital, mobile, and store touch-points &amp;amp; developing next-generation customer journey/contextual marketing solutions&lt;/li&gt;
-  &lt;li&gt;Prepared sales activity and performance reports&lt;/li&gt;
-  &lt;li&gt;Reduced response time for customer issues&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Robinson Gaming Industries,
-Atlanta, Georgia&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Presented monthly, quarterly and business analytic reports to CEO&lt;/li&gt;
-  &lt;li&gt;Collaborated with business teams to streamline production release strategy plans&lt;/li&gt;
-  &lt;li&gt;Ongoing solutions to AWS migration.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;certifications&quot;&gt;&lt;span style=&quot;color:darkblue&quot;&gt;Certifications&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;R Programming&lt;/li&gt;
-  &lt;li&gt;Python&lt;/li&gt;
-  &lt;li&gt;Tableau&lt;/li&gt;
-  &lt;li&gt;Microsoft Advance Analytics Course&lt;/li&gt;
-  &lt;li&gt;Building Static Sites with Jekyll&lt;/li&gt;
-  &lt;li&gt;Amazon Web Services (AWS)&lt;/li&gt;
-  &lt;li&gt;Social Network Analysis&lt;/li&gt;
-  &lt;li&gt;Data Visualization&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;&lt;span style=&quot;color:darkblue&quot;&gt;Skills&lt;/span&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Operates successfully at both strategic and tactical ‘roll-up your sleeves’ levels&lt;/li&gt;
-  &lt;li&gt;Proven track record in strategic development, operational execution, marketing, &amp;amp; innovation&lt;/li&gt;
-  &lt;li&gt;Coordinated media campaigns for Facebook, Instagram and Twitter&lt;/li&gt;
-  &lt;li&gt;Creative problem-solver with the capacity to make sound decisions and execute in a fast-paced environment&lt;/li&gt;
-  &lt;li&gt;Intrinsic ‘customer-first’ user-centric design emphasis&lt;/li&gt;
-  &lt;li&gt;Organized consensus building and gaining cross-department &amp;amp; functional alignment&lt;/li&gt;
-  &lt;li&gt;Demonstrated organizational leadership and aptitude in developing high performing teams &amp;amp; culture&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><category term="Henry Bernreuter" /><summary type="html">=========================</summary></entry></feed>
+&lt;/html&gt;</content><author><name>Henry Bernreuter</name><email>bernreuterhenryg@gmail.com</email></author><summary type="html"></summary></entry></feed>

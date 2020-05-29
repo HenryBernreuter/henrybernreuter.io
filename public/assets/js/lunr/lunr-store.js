@@ -1,9 +1,4 @@
 var store = [{
-        "title": "Resume",
-        "excerpt":"=========================Education 2014-2019 Bachelor of Interdisciplinary Studies, concentration in Game Design and Development Georgia State UniversityGPA: 3.25 ExperienceDisturbed Media:Tampa Bay, Florida Launched immersive customer experiences across digital, mobile, and store touch-points &amp; developing next-generation customer journey/contextual marketing solutions Prepared sales activity and performance reports Reduced response time for customer issuesRobinson Gaming...","categories": [],
-        "tags": ["Henry Bernreuter"],
-        "url": "http://localhost:4000/resume/",
-        "teaser":null},{
         "title": "Kaggle Titanic Solution In Python",
         "excerpt":"titanic-solution Titanic: Machine Learning from Disaster&#182;Predict survival on the Titanic&#182;Defining the problem statementCollecting the dataExploratory data analysisFeature engineeringModellingTesting1. Defining the problem statement&#182;Complete the analysis of what sorts of people were likely to survive.In particular, we ask you to apply the tools of machine learning to predict which passengers survived the...","categories": [],
         "tags": [],
@@ -28,4 +23,9 @@ var store = [{
         "excerpt":"R in One PostCode Show All CodeHide All CodeDownload RmdGetting StartedThis tutorial is desgined for the beginner who has some computer programming experience. Remember rule number one in ProgrammingDont PanicDownload RStudion Here https://www.rstudio.com/products/rstudio/download/Storing ValuesTypes of variablesinteger &lt;- 1double &lt;- 5.0character &lt;- &quot;A&quot;string &lt;- &quot;ABCDEFGHIJKLMNOQRSTUVWXYZ&quot;boolean &lt;- TRUEdata &lt;- list(12,3.14,&quot;Henry&quot;,&quot;Bernreuter&quot;)data_1 &lt;- list(dozen...","categories": [],
         "tags": ["r","data analytics"],
         "url": "http://localhost:4000/r-in-one-post/",
+        "teaser":null},{
+        "title": "Resume",
+        "excerpt":"SUMMARYI am self-motivated team player looking to facilitate change in a business environment using artificial intelligence and machine learning algorithms I have industry experience in advanced analytics by means of structured and unstructured data, as well as software development by means of the Agile methodology. I am skilled in advanced...","categories": [],
+        "tags": ["Henry Bernreuter"],
+        "url": "http://localhost:4000/resume/",
         "teaser":null}]
