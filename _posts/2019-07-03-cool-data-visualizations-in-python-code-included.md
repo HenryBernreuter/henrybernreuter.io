@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: posts
 title: Cool Data Visualizations in Python (code Included)
 date: 2019-07-03 12:11 -0400
 tags: [Henry Bernreuter]
 excerpt: "Data Science, Python, Data Visualizations"
-image: assets/images/cool_viz.jpg
-featured: true
 ---
 <html>
 <head><meta charset="utf-8" />

@@ -1,11 +1,3 @@
----
-layout: post
-title:  "Kaggle Titanic Solution"
-categories: [ Kaggle, tutorial ]
-image: assets/images/t1.jpg
----
-
-
 <html>
 <head><meta charset="utf-8" />
 
@@ -92,11 +84,11 @@ mark {
   color: #000;
 }
 small {
-  font-size: 100%;
+  font-size: 80%;
 }
 sub,
 sup {
-  font-size: 100%;
+  font-size: 75%;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
