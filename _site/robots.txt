@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/henrybernreuter.com/sitemap.xml
+Sitemap: /henrybernreuter.com/sitemap.xml

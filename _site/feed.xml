@@ -3,10 +3,10 @@
   <channel>
     <title>Project</title>
     <description>Data Science Portofolio</description>
-    <link>http://localhost:4000/henrybernreuter.com/</link>
-    <atom:link href="http://localhost:4000/henrybernreuter.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jun 2020 18:02:24 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2020 18:02:24 -0500</lastBuildDate>
+    <link>/henrybernreuter.com/</link>
+    <atom:link href="/henrybernreuter.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Jun 2020 18:05:29 -0500</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2020 18:05:29 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -238,8 +238,8 @@ Start every new post with the date that you want it published.
 
 </description>
         <pubDate>Fri, 29 May 2020 13:33:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/Jekyll-and-Github-Site-in-One-Post/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/Jekyll-and-Github-Site-in-One-Post/</guid>
+        <link>/henrybernreuter.com/Jekyll-and-Github-Site-in-One-Post/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/Jekyll-and-Github-Site-in-One-Post/</guid>
         
         <category>Henry Bernreuter</category>
         
@@ -1307,8 +1307,8 @@ $(document).ready(function () {
 &lt;/html&gt;
 </description>
         <pubDate>Tue, 23 Jul 2019 15:41:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/r-in-one-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/r-in-one-post/</guid>
+        <link>/henrybernreuter.com/r-in-one-post/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/r-in-one-post/</guid>
         
         <category>r</category>
         
@@ -14952,8 +14952,8 @@ div#notebook {
 &lt;/html&gt;
 </description>
         <pubDate>Wed, 03 Jul 2019 11:11:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/cool-data-visualizations-in-python-code-included/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/cool-data-visualizations-in-python-code-included/</guid>
+        <link>/henrybernreuter.com/cool-data-visualizations-in-python-code-included/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/cool-data-visualizations-in-python-code-included/</guid>
         
         <category>Henry Bernreuter</category>
         
@@ -30644,8 +30644,8 @@ for different values.&lt;/p&gt;
 &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 10:54:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/python-in-one-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/python-in-one-post/</guid>
+        <link>/henrybernreuter.com/python-in-one-post/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/python-in-one-post/</guid>
         
         
         <category>python</category>
@@ -30831,8 +30831,8 @@ dtype: object
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 23 May 2019 10:15:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/facebook-analytics-using-ggplot-in-python/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/facebook-analytics-using-ggplot-in-python/</guid>
+        <link>/henrybernreuter.com/facebook-analytics-using-ggplot-in-python/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/facebook-analytics-using-ggplot-in-python/</guid>
         
         <category>python ggplot</category>
         
@@ -30995,8 +30995,8 @@ rating: 4.5
 &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B7EGOx5nYYs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 10:15:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/test/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/test/</guid>
+        <link>/henrybernreuter.com/test/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/test/</guid>
         
         <category>python ggplot</category>
         
@@ -49435,8 +49435,8 @@ this was made following along with his youtube tutorial found here:
 &lt;/html&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/henrybernreuter.com/kaggle-titanic-solution-in-python/</link>
-        <guid isPermaLink="true">http://localhost:4000/henrybernreuter.com/kaggle-titanic-solution-in-python/</guid>
+        <link>/henrybernreuter.com/kaggle-titanic-solution-in-python/</link>
+        <guid isPermaLink="true">/henrybernreuter.com/kaggle-titanic-solution-in-python/</guid>
         
         
         <category>Kaggle</category>
