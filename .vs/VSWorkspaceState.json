@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
-    "\\_pages",
+    "\\_includes",
+    "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2019-07-23-r-in-one-post.md",
+  "SelectedNode": "\\_includes\\share.html",
   "PreviewInSolutionExplorer": false
 }

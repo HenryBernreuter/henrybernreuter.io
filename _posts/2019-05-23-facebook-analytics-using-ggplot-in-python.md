@@ -1,10 +1,11 @@
 ---
-layout: posts
+layout: post
 title: Facebook Analytics using ggplot in Python
 tags: [python ggplot, python in r, data analytics]
 date: 2019-05-23 11:15 -0400
+image: assets/images/analyicsfb.jpg
 ---
-Project 1 CTW Directed Readings 4999
+Project 1 
 Using data from Facebook group create data visualization similar to ggplot2 but using Python 3
 
 1.Import data using pandas. Facebook downloads data as a .xls. In order to use the data it must be cleaned and merged into a .csv file format.
@@ -78,7 +79,7 @@ print(df.dtypes)
 ```
 
 
-![png](/images/output_4_0.png)
+![png]({{ site.baseurl }}/assets/images/output_4_0.png)
 
 
 
@@ -99,7 +100,7 @@ ggplot(df, aes(x='Posts', y='Reactions')) + geom_point(shape=5, color="blue")
 ```
 
 
-![png](/images/output_6_0.png)
+![png]({{ site.baseurl }}/assets/images/output_6_0.png)
 
 
 
@@ -123,7 +124,7 @@ ggplot(aes(x='x'), data=df) +\
 ```
 
 
-![png](/images/output_8_0.png)
+![png]({{ site.baseurl }}/assets/images/output_8_0.png)
 
 
 
@@ -145,7 +146,7 @@ ggplot(df, aes(x='Reactions', y='Comments')) +\
 ```
 
 
-![png](/images/output_10_0.png)
+![png]({{ site.baseurl }}/assets/images/output_10_0.png)
 
 
 

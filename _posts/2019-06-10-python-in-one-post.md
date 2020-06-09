@@ -1,7 +1,10 @@
 ---
-layout: posts
+layout: post
 title: Python in One Post
 date: 2019-06-10 11:54 -0400
+categories: [ python, tutorial ]
+image: assets/images/python_in_one_post.jpg
+featured: true
 ---
 <html>
 <head><meta charset="utf-8" />
@@ -15669,7 +15672,7 @@ for different values.</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>See my Story and Support my efforts here:</p>
-<p><a href="https://www.gofundme.com/digital-inovation-masters-degree">https://www.gofundme.com/digital-inovation-masters-degree</a></p>
+<p><a href="https://www.buymeacoffee.com/HenryBernreuter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 </div>
 </div>
