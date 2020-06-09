@@ -1,10 +1,11 @@
 ---
-layout: posts
+layout: post
 title: R in One Post
 date: 2019-07-23 16:41 -0400
 tags: [r, data analytics]
-header:
-  image: "/images/RinOnePost.jpg"
+classes: wide
+categories: [ R, tutorial ]
+image: assets/images/RinOnePost.png
 ---
 <html xmlns="http://www.w3.org/1999/xhtml">
 
