@@ -4,7 +4,6 @@ title: "Project"
 description: "Data Science Portofolio"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
-url: henrybernreuter.github.io
 baseurl: /henrybernreuter.com
 google_analytics: 'UA-142522944-1'
 # disqus: 'demowebsite'
