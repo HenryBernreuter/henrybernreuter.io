@@ -135,8 +135,8 @@ show_modal_on_finish_post: true
 two_columns_layout: true
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "henrybernreuter.com" # the subpath of your site, e.g. /blog
+url: "www.henrybernreuter" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category

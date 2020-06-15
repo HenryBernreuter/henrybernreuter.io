@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: HenryBernreuter.com
+title: HenryBernreuter.com 
+description: Data Science Portfolio 
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: bernreuterhenryg@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -18,23 +18,23 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Resume
+    url: /resume
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: HenryBernreuter
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: HenryBernreuter
+# medium_username: medium_username
 
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: false
+show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
 
@@ -42,7 +42,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-142522944-1X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -100,4 +100,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v1.0
