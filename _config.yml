@@ -40,8 +40,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "henrybernreuter.com" # the subpath of your site, e.g. /blog
+url: "www.henrybernreuter.com" # the base hostname & protocol for your site
 google_analytics: "UA-142522944-1X"
 language: "en"
 categories_folder: category
