@@ -2,10 +2,9 @@
 layout: post
 title: Cool Data Visualizations in Python (code Included)
 date: 2019-07-03 12:11 -0400
-tags: Henry Bernreuter
-image: /assets/img/cool_viz.jpg
-optimized_image: /assets/img/cool_viz.jpg
-featured: true
+tags: python
+image: /assets/img/coolv.png
+optimized_image: /assets/img/coolv.png
 ---
 <html>
 <head><meta charset="utf-8" />
@@ -13093,7 +13092,7 @@ div#notebook {
 </style>
 
 <!-- Custom stylesheet, it must be in the same directory as the html file -->
-<link rel="stylesheet" href="custom.css">
+# <link rel="stylesheet" href="custom.css">
 
 <!-- Loading mathjax macro -->
 <!-- Load mathjax -->
