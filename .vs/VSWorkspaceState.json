@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\img",
-    "\\assets\\img\\icons",
-    "\\_layouts"
+    "\\_posts"
   ],
-  "SelectedNode": "\\CNAME",
+  "SelectedNode": "\\_posts\\test.md",
   "PreviewInSolutionExplorer": false
 }

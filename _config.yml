@@ -25,9 +25,9 @@ menu:
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: HenryBernreuter
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+facebook_username: HenryGBernreuter
+twitter_username: BurnzAnalytics
+instagram_username: HenryBernreuter
 linkedin_username: HenryBernreuter
 # medium_username: medium_username
 
@@ -36,7 +36,7 @@ linkedin_username: HenryBernreuter
 show_time_bar: true
 show_modal_on_exit: true
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
