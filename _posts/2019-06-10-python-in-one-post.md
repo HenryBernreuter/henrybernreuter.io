@@ -5,7 +5,7 @@ title:  Python in One Post
 subtitle: Learn Python For Free
 description: Basic python
 image: /assets/img/python_in_one_post_image.png
-optimized_image: /assets/img/python_in_one_post_image_optimized.png
+optimized_image: /assets/img/python_in_one_post_optimized_image.png
 category: tutorial
 tags: python
 author: henry

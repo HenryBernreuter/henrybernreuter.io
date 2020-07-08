@@ -2,7 +2,7 @@
 layout: post
 title: How this site was built
 date: 2020-05-29 14:33 -0400
-tags: Henry Bernreuter, jekyll, Githhub
+tags: jekyll Githhub
 image: /assets/img/gitjekyll.jpg
 optimized_image: /assets/img/gitjekyll_optimized.png
 description: "How to build a site with Github and Jekyll"
@@ -29,7 +29,7 @@ If you're on Mac or Linux, Git is most likely already installed. If you're on Wi
 Once you have those installed, goto your command line and type these commands to makes sure it has installed properly.
 Its not important to have the same version as me this step is more as a double check. 
 
-![image]({{ site.baseurl }}/assets/img/jekyll_git_version.jpg)
+![image]({{ site.baseurl }}/assets/img/jekyll_git_version.JPG)
 
 ## Create a new Site
 
@@ -39,7 +39,7 @@ Open up your terminal navigate to the place where you want to store your site fi
 
 
 
-![walking]({{ site.baseurl }}/assets/img/run_jekyll_new.jpg)
+![walking]({{ site.baseurl }}/assets/img/run_jekyll_new.JPG)
 
 Running Jekyll new creates a new folder called "projectHB" with a bunch of files inside. 
 
@@ -53,11 +53,11 @@ Now initialize a git repository for this project.
 
 "git init" to initialize a git repository
 
-![image]({{ site.baseurl }}/assets/img/git_init.jpg)
+![image]({{ site.baseurl }}/assets/img/git_init.JPG)
 
 "git add ."
 
-![image]({{ site.baseurl }}/assets/img/git_add_period.jpg)
+![image]({{ site.baseurl }}/assets/img/git_add_period.JPG)
 
 and "git commit -m" and I'll just say "build" as the note
 

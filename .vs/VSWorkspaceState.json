@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_posts"
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\_posts\\test.md",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
