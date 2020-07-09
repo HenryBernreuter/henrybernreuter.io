@@ -6,6 +6,7 @@ subtitle: Learn Python For Free
 description: Install Python
 image: /assets/img/startHere.png
 optimized_image: /assets/img/startHere.png
+category: tutorial
 author: henry
 ---
 
