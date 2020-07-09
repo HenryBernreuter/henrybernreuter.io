@@ -2,7 +2,7 @@
 layout: post
 title: Cool Data Visualizations in Python (code Included)
 date: 2019-07-03 12:11 -0400
-tags: python
+tags: python visualizations
 image: /assets/img/coolv.png
 optimized_image: /assets/img/coolv.png
 ---
