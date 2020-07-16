@@ -1,5 +1,5 @@
 ---
-date: 2020-07-01 
+date: 2020-07-06 
 layout: post
 title:  Start Here
 subtitle: Learn Python For Free
