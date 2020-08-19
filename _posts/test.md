@@ -1,12 +1,11 @@
 ---
-date: 2014-06-24 12:26:40
+date: 2020-08-17 12:26:40
 layout: post
 title:  title
 subtitle: subtitle 
 description: description description description description
 image: /assets/img/Image_Template_760X399.png
 optimized_image: /assets/img/optimized_template_380X200.png
-paginate: true
 category: tutorial
 tags: TAGS
 toc: true
