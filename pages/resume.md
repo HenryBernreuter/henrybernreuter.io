@@ -6,85 +6,359 @@ permalink: /resume
 
 ---
 
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:13.05pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:center;'><strong><span style="font-size:29px;line-height:107%;">Henry Bernreuter&nbsp;</span></strong></p>
-<p style='margin-top:0in;margin-right:34.65pt;margin-bottom:.0001pt;margin-left:.95pt;line-height:108%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:center;text-indent:58.35pt;'><a href="mailto:bernreuterhenryg@gmail.com"><span style="font-size:16px;line-height:108%;">bernreuterhenryg@gmail.com</span></a></p>
-<p style='margin-top:0in;margin-right:34.65pt;margin-bottom:.0001pt;margin-left:.95pt;line-height:108%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:center;text-indent:58.35pt;'><a href="file:///C%3A/Users/bernr/Desktop/Resume/henrybernreuter.com"><span style="font-size:16px;line-height:108%;">henrybernreuter.com</span></a></p>
-<p style='margin-top:0in;margin-right:34.65pt;margin-bottom:.0001pt;margin-left:.95pt;line-height:108%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:58.35pt;'><span style="font-size:16px;line-height:108%;">&nbsp;</span></p>
-<p style='margin-top:0in;margin-right:34.65pt;margin-bottom:.0001pt;margin-left:0in;line-height:108%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:center;'><strong><span style="font-size:16px;line-height:108%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></strong><strong><u><span style="font-size:21px;line-height:108%;">SUMMARY</span></u></strong></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.25pt;margin-left:.45pt;line-height:106%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><span style="font-size:13px;line-height:106%;">I am self-motivated team player looking to facilitate change in a business environment using artificial intelligence and machine learning algorithms. I have industry experience in advanced analytics by means of structured and unstructured data, as well as software development by means of the Agile methodology. I am skilled in advanced data programming, application development, data modeling, machine learning, project management, Tableau, SPARK, Python, and Hadoop. I am experienced in handling both process-centric and customer-centric technical needs, facilitating cross-functional team discussion to resolve defects for faster delivery.&nbsp;</span>&nbsp;</p>
-<h1 style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.45pt;text-indent:-.5pt;line-height:107%;font-size:16px;font-family:"Calibri",sans-serif;color:black;text-decoration:underline;text-align:center;'><span style="font-size:19px;line-height:107%;">EDUCATION</span></h1>
-<p style="margin: 0in 120.7pt 0.05pt 0.45pt; line-height: 106%; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt; text-align: left;"><strong><span style="font-size:19px;line-height:106%;">Georgia State University, Atlanta GA:</span></strong><strong><span style='font-size:14px;line-height:106%;font-family:"Arial",sans-serif;'>&nbsp;</span></strong><span style='font-size:14px;line-height:106%;font-family:"Arial",sans-serif;'>&nbsp;Graduation: May 2021</span></p>
-<p style="margin: 0in 120.7pt 0.05pt 0.45pt; line-height: 106%; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt; text-align: left;"><span style="font-size: 13px;">Master</span><span style="font-size:13px;line-height:106%;">&nbsp;of Science in Information Systems GPA: 3.28&nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 0.3pt 0.45pt; line-height: 106%; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt; text-align: left;"><span style="font-size:13px;line-height:106%;">Concentration: Big Data Management and Analytics&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><strong><span style="font-size:19px;line-height:107%;">Georgia State University, Atlanta GA</span></strong><strong><span style="font-size:14px;line-height:107%;">:</span></strong><strong><span style='font-size:14px;line-height:107%;font-family:"Arial",sans-serif;'>&nbsp;</span></strong><span style='font-size:14px;line-height:107%;font-family:"Arial",sans-serif;'>Graduated: December 2019&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;margin-left:.45pt;line-height:106%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-indent:-.5pt;'><span style="font-size:13px;line-height:106%;">Bachelor of Interdisciplinary Studies GPA: 3.33&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:2.75pt;margin-left:.45pt;line-height:106%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-indent:-.5pt;'><span style="font-size:13px;line-height:106%;">Concentration: Game Design and Development &nbsp;</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:2.5pt;margin-left:.25pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;</p>
-<h1 style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.45pt;text-indent:-.5pt;line-height:107%;font-size:16px;font-family:"Calibri",sans-serif;color:black;text-decoration:underline;text-align:center;'><span style="font-size:21px;line-height:107%;">CORE COMPETENCIES</span></h1>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><strong><span style="font-size:19px;line-height:109%;">Programming:</span></strong> Python (NumPy, Pandas, Scikit-learn, Matplotlib, NLTK), R Programming, SQL, HTML, CSS, Java, MongoDB, PySpark, JSON &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><strong><span style="font-size:19px;line-height:109%;">Tools:</span></strong> Tableau, R Studio, Adobe Illustrator, Adobe Premiere, Adobe Elements, Neo4j, SQL Server, Jupiter Notebook, &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Eclipse IDE Oracle, SQL Developer, Microsoft Excel, Microsoft Office, GIT, BASH, Unity, Unreal Engine &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><strong><span style="font-size:19px;line-height:109%;">Frameworks:</span>&nbsp;</strong>Databricks, Oracle, GitHub, Anaconda &nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><strong><span style="font-size:19px;line-height:109%;">Machine Learning:</span>&nbsp;</strong>Decision Trees, Random Forest, KNN, Na&iuml;ve Bayes, SVM &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:1.45pt;margin-left:.25pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;</p>
-<h1 style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.45pt;text-indent:-.5pt;line-height:107%;font-size:16px;font-family:"Calibri",sans-serif;color:black;text-decoration:underline;text-align:center;'><span style="font-size:21px;line-height:107%;">EXPERIENCE</span></h1>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><strong><span style="font-size:19px;line-height:107%;">Career Advisement Center &ndash;</span></strong><strong><span style="font-size:14px;line-height:107%;">&nbsp;</span></strong><em><span style="font-size:14px;line-height:107%;">Graduate Research Assistant</span></em>.</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Presented Data Analytic reports to Director</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Strategy Content Creation</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Aided in business functions hosted by RCB in technical and non-technical roles for event functions</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Active participation in networking functions for students, faculty, and industry professionals</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'><strong><span style="font-size:19px;line-height:107%;">DeOhGe.com&ndash;</span></strong><strong><span style="font-size:14px;line-height:107%;">&nbsp;</span></strong><em><span style="font-size:14px;line-height:107%;">Artificial Intelligence Engineer</span></em></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Built voice recognition software to predict speech patterns in children</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Building computer vision software to identify possible threats to children</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Gained experience on agile testing methodology, and formed various project artifacts</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Demonstrated automation benefit by developing Proof of Concept</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.1pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;'><strong><span style="font-size:19px;line-height:107%;">Robinson Gaming Industries &ndash;</span></strong><em><span style="font-size:14px;line-height:107%;">&nbsp;Game Engineer</span></em></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Saved 40% of testing time by designing/developing automation scripts</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Point of contact between clients, for getting the required application accesses, worked on Requirement Gathering,</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Knowledge Transfer and daily, weekly, and monthly status calls</p>
-<p style='margin-top:0in;margin-right:46.6pt;margin-bottom:.35pt;margin-left:0in;line-height:109%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;text-indent:-.5pt;'>Independently devised and applied various frontend pages while supporting Developed UI/UX experiences</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.45pt;margin-left:.25pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;text-align:justify;'>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.25pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;</p>
-<h1 style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.45pt;text-indent:-.5pt;line-height:107%;font-size:16px;font-family:"Calibri",sans-serif;color:black;text-decoration:underline;text-align:center;'><span style="font-size:21px;line-height:107%;">PERSONAL PROJECTS</span></h1>
-<h2 style="margin: 0in 0in 0.0001pt; text-indent: -0.5pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black;"><span style="font-size:19px;line-height:107%;">Facebook Group: GSU Textbook Buy Sell Trade &nbsp; &nbsp; &nbsp;</span></h2>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Set Up an Online Marketplace for students to sell books &nbsp;</span></p>
-<p style="margin: 0in 59.95pt 0.0001pt 0.25pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black;"><span style="font-size:13px;line-height:112%;">Grew community to over 2600 members applying social media analytic techniques&nbsp;</span></p>
-<p style="margin: 0in 59.95pt 0.0001pt 0.25pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black;"><strong><span style="font-size:19px;line-height:112%;">henrybernreuter.com &nbsp; &nbsp;</span></strong><span style="font-size:19px;line-height:112%;">&nbsp;</span></p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Coded and hosted site on GitHub in JavaScript on the Ruby Framework&nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Produced tutorials for Python, R and Kaggle competitions &nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Constructed Animations for time series analysis in Blender&nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Built a functional email system, including both the conceptual and logical models. &nbsp;&nbsp;</span></p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Migrated from Github to AWS S3 utilizing AWS Amplify</span></p>
-<h2 style="margin: 0in 0in 0.0001pt; text-indent: -0.5pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black;"><span style="font-size:19px;line-height:107%;"><a href="https://github.com/HenryBernreuter/titanicapp">Titanic Predictive App</a></span></h2>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Developed an UX interface that accurately predicts survivability of Titanic disaster &nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Lead a team of 2 students to design and deliver a working prototype &nbsp; &nbsp; &nbsp;</span>&nbsp;</p>
-<h2 style="margin: 0in 0in 0.0001pt; text-indent: -0.5pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black;"><span style="font-size:19px;line-height:107%;">Database Management System &nbsp;</span></h2>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Produced a fully functional database system&nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Optimized data intake process and analysis&nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 52.6pt 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Established the SQL code for tables and relationships between the tables and tested queries with sample data&nbsp;</span></p>
-<p style="margin: 0in 52.6pt 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><strong><span style="font-size:19px;line-height:106%;">Data Analysis and Visualization&nbsp;</span></strong><span style="font-size:19px;line-height:106%;">&nbsp;</span></p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Conducted exploratory data analysis and data cleaning, predictive machine learning analysis on Titanic Survivability Kaggle competition&nbsp;</span>&nbsp;</p>
-<h2 style="margin: 0in 0in 0.0001pt; text-indent: -0.5pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black;"><span style="font-size:19px;line-height:107%;">Amazon review analysis using MongoDB &nbsp;</span></h2>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Generated insights from reviews applying text and non-text-based analysis&nbsp;</span>&nbsp;</p>
-<p style="margin: 0in 0in 1.45pt 0.45pt; line-height: 1; font-size: 15px; font-family: Calibri, sans-serif; color: black; text-indent: -0.5pt;"><span style="font-size:13px;line-height:106%;">Restructured dataset into a flat file for analysis and uniquely identify metrics&nbsp;</span> </p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:1.65pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:516.8pt;margin-bottom:.0001pt;margin-left:.95pt;line-height:118%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp; <strong>&nbsp;</strong>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:1.45pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:1.95pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:1.45pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:14px;line-height:107%;">&nbsp;&nbsp;</span> &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><strong>&nbsp;</strong>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.5pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:13px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:2.25pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:13px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:16px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:1.85pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:3.1pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:16px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:3.1pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp; &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.2pt;margin-left:3.1pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp;&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:10.2pt;margin-left:.7pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style='font-size:14px;line-height:107%;font-family:"Arial",sans-serif;'>&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:16px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:4.95pt;margin-left:.7pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:16px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:18.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp; &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:18.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp; &nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.65pt;margin-left:1.2pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'><span style="font-size:14px;line-height:107%;">&nbsp;</span>&nbsp;</p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:.0001pt;margin-left:.95pt;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;color:black;'>&nbsp; &nbsp;</p>
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	color:black;}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:1.0pt;
+	text-indent:-.5pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	text-decoration:underline;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Calibri",sans-serif;
+	color:black;
+	text-decoration:underline;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.5in .5in .5in .5in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:.25pt;text-align:center'><b><span lang=DE
+style='font-size:26.0pt;line-height:107%'>Henry Bernreuter</span></b><span
+lang=DE style='font-size:26.0pt;line-height:107%'> </span></p>
+
+<h1 align=center style='margin-top:12.0pt;margin-right:0in;margin-bottom:0in;
+margin-left:.25pt;margin-bottom:.0001pt;text-align:center;text-indent:0in'><b><span
+style='font-size:14.0pt;line-height:107%;text-decoration:none'>Advanced
+Programming | Application Development | Data Modeling</span></b></h1>
+
+<p class=MsoNormal style='margin-top:12.0pt;margin-right:0in;margin-bottom:
+8.0pt;margin-left:.25pt;text-align:justify;text-justify:inter-ideograph;
+text-indent:-.5pt;line-height:104%'><span style='font-size:12.0pt;line-height:
+104%'>I use artificial intelligence and machine learning algorithms to
+facilitate changes in business.� My industry experience includes advanced
+analytics utilizing structured and unstructured data, as well as software
+development by means of the Agile methodology. I solve technical problems that
+are both process centric and customer-centric using cross functional team input
+to deliver solutions, fast. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
+-.5pt;line-height:104%'><b><span style='font-size:12.0pt;line-height:104%'>Programming:</span></b><span
+style='font-size:12.0pt;line-height:104%'> Python (NumPy, Pandas, Scikit-
+learn, Matplotlib, NLTK), R Programming, SQL, Premiere, Elements), Hadoop,
+Neo4j, SQL </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
+-.5pt;line-height:104%'><b><span style='font-size:12.0pt;line-height:104%'>Tools:</span></b><span
+style='font-size:12.0pt;line-height:104%'> Tableau, R Studio, Adobe
+Illustrator, HTML, CSS, Java, MongoDB, PySpark, JSON Server, Jupiter Notebook,�
+Eclipse IDE Oracle, SQL Developer, GIT, BASH, Unity, Unreal Engine<b>, </b>Excel,
+Oracle, Hive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:-.25pt;line-height:104%'><b><span style='font-size:12.0pt;
+line-height:104%'>Frameworks</span></b><span style='font-size:12.0pt;
+line-height:104%'>:  Databricks, Oracle,  GitHub, Anaconda��� </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:-.25pt;line-height:104%'><b><span style='font-size:12.0pt;
+line-height:104%'>Machine Learning: </span></b><span style='font-size:12.0pt;
+line-height:104%'>Decision Trees, Random Forest, KNN, Na�ve Bayes, SVM,� Linear
+Regression� </span></p>
+
+<h1 style='margin-left:.25pt'>RELATED EXPERIENCE<span style='text-decoration:
+none'> </span></h1>
+
+<p class=MsoNormal style='margin-bottom:.3pt'><b><span style='font-size:12.0pt;
+line-height:107%'>Purchasing Power������������������������������������������������������������������������������������
+����������������������������������������������������������������������������������������������������������������������������������������������������������� ������������</span></b><span
+style='font-size:12.0pt;line-height:107%'>Atlanta, GA<b> </b></span></p>
+
+<p class=MsoNormal style='margin-bottom:.4pt'><i><span style='font-size:12.0pt;
+line-height:107%'>E - Commerce Data Modeling Pricing Intern�����������������������������������������������������������
+</span></i><span style='font-size:12.0pt;line-height:107%'>2020</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:35.25pt;text-indent:-.25in;line-height:110%'><span
+style='font-size:12.0pt;line-height:110%;font-family:"Arial",sans-serif'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+110%'>Built Dashboard for tier based promotional codes in Tableau </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:35.25pt;text-indent:-.25in;line-height:110%'><span
+style='font-size:12.0pt;line-height:110%;font-family:"Arial",sans-serif'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+110%'>Used SQL Queries, R, Python and Tableau to predict customer segmentation</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:35.25pt;text-indent:-.25in;line-height:110%'><span
+style='font-size:12.0pt;line-height:110%;font-family:"Arial",sans-serif'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+110%'>Developed ETL pipelines for SQL Querying and optimization. </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-size:12.0pt;
+line-height:107%'>Robinson Gaming Industries ����������������������������������������� ���������������������������������</span></b><span
+style='font-size:12.0pt;line-height:107%'>Atlanta, GA<i> </i></span></p>
+
+<p class=MsoNormal style='margin-bottom:.95pt;line-height:104%'><i><span
+style='font-size:12.0pt;line-height:104%'>Data Analyst/Engineer </span></i><span
+style='font-size:12.0pt;line-height:104%'>����������������������������������������������������� ���������������������������������2014-2019
+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:35.25pt;text-indent:-.25in;line-height:104%'><span
+style='font-size:12.0pt;line-height:104%;font-family:"Arial",sans-serif'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+104%'>Manipulated large datasets and created ETL/CI pipelines for analysis from
+cloud</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:35.25pt;line-height:104%'><span style='font-size:12.0pt;line-height:
+104%'>and onsite sources. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:35.25pt;text-indent:-.25in;line-height:104%'><span
+style='font-size:12.0pt;line-height:104%;font-family:"Arial",sans-serif'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+104%'>Created advance analytic dashboards in Excel, Tableau, Python Dash and R
+shiny</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:35.25pt;text-indent:-.25in;line-height:104%'><span
+style='font-size:12.0pt;line-height:104%;font-family:"Arial",sans-serif'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+104%'>Developed and Maintained documentation for procedures and governance
+practices </span></p>
+
+<h1 style='margin-left:.25pt'>EDUCATION<span style='text-decoration:none'> </span></h1>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
+-.5pt;line-height:104%'><span style='font-size:12.0pt;line-height:104%'>Robinson
+College of Business, Georgia State University ������ ����������������������������������� ����������� ���������������Atlanta,
+GA</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
+-.5pt;line-height:104%'><span style='font-size:12.0pt;line-height:104%'>�<b>Master
+of Science in Information Systems</b> (GPA:� 3.8) </span><span
+style='font-size:12.0pt;line-height:104%;color:white'>Computer Science�������� �������������������������������������</span><span
+style='font-size:12.0pt;line-height:104%'>May 2021 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:0in;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span style='font-size:
+12.0pt;line-height:104%'>Concentration: Big Data Management and Analytics� </span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:0in;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span style='font-size:
+12.0pt;line-height:104%'>&nbsp;</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:0in;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><span style='font-size:
+12.0pt;line-height:104%'>Georgia State University� ����� �������������������������������������������������������������������������������������������������������������������������Atlanta,
+GA� </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-size:12.0pt;
+line-height:107%'>Bachelor of Interdisciplinary Studies</span></b><span
+style='font-size:12.0pt;line-height:107%'> (GPA: 3.33) </span><span
+style='font-size:12.0pt;line-height:107%;color:white'>Computer Science</span><span
+style='font-size:12.0pt;line-height:107%'>���������������������������� ����������
+������������������������Dec 2019 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span style='font-size:
+12.0pt;line-height:104%'>Concentration: Game Design and Development </span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'>&nbsp;</p>
+
+<h1 style='margin-left:.25pt'>PROJECT HIGHLIGHTS<span style='text-decoration:
+none'> </span></h1>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.2pt;text-indent:-.5pt'><b><span style='font-size:12.0pt;
+line-height:107%'>Facebook Group: GSU Textbook Buy Sell Trade </span></b><span
+style='font-size:12.0pt;line-height:107%'>(2017 � current)<b>� </b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:35.2pt;margin-bottom:
+.95pt;margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span
+style='font-size:12.0pt;line-height:104%'>Set Up an Online Marketplace for
+students to sell books and grew community to 2600+ members applying social
+media analytic techniques</span></i><span style='font-size:12.0pt;line-height:
+104%'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:35.2pt;margin-bottom:
+.95pt;margin-left:.8pt;text-indent:-.1pt;line-height:104%'><b><span
+style='font-size:12.0pt;line-height:104%'>henrybernreuter.com</span></b><span
+style='font-size:12.0pt;line-height:104%'> (2018 � current) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span style='font-size:
+12.0pt;line-height:104%'>Coded and hosted site on GitHub in JavaScript on the
+Ruby Framework; produced tutorials for Python, R and Kaggle competitions</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span style='font-size:
+12.0pt;line-height:104%'>�constructed animations for time series analysis in
+Blender; built a functional email system, including both the conceptual and
+logical models; migrated from Github to AWS S3 utilizing AWS Amplify</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><a
+href="https://github.com/HenryBernreuter/titanicapp"><b><span style='font-size:
+12.0pt;line-height:104%;color:#0D0D0D;text-decoration:none'>Titanic Predictive
+app </span></b></a><b><span style='font-size:12.0pt;line-height:104%'>�</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><i><span style='font-size:
+12.0pt;line-height:104%'>Developed an UX interface that accurately predicts
+survivability of Titanic disaster; led a team of 2 students to design and
+deliver a working prototype</span></i><span style='font-size:12.0pt;line-height:
+104%'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><b><span style='font-size:
+12.0pt;line-height:104%'>Database Management System:� </span></b><i><span
+style='font-size:12.0pt;line-height:104%'>produced a fully functional database
+system; optimized data intake process and analysis; established the SQL code
+for tables and relationships between the tables and tested queries with sample
+data</span></i><span style='font-size:12.0pt;line-height:104%'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:.95pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><b><span style='font-size:
+12.0pt;line-height:104%'>Data Analysis &amp; Visualization</span></b><span
+style='font-size:12.0pt;line-height:104%'>:� <i>Conducted exploratory data
+analysis, data cleaning, and predictive machine learning analysis on Titanic
+Survivability Kaggle competition </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:1.5pt;margin-bottom:20.9pt;
+margin-left:.8pt;text-indent:-.1pt;line-height:104%'><b><span style='font-size:
+12.0pt;line-height:104%'>Amazon review analysis (using MongoDB):� </span></b><i><span
+style='font-size:12.0pt;line-height:104%'>Generated insights from reviews
+applying text and non-text-based analysis; restructured dataset into a flat
+file for analysis and uniquely identifiable metrics</span></i><span
+style='font-size:12.0pt;line-height:104%'> </span></p>
+
+<h1 style='margin-left:.25pt'>OTHER EXPERIENCE<span style='text-decoration:
+none'> </span></h1>
+
+<table class=TableGrid border=0 cellspacing=0 cellpadding=0 width=655
+ style='width:490.95pt;border-collapse:collapse'>
+ <tr style='height:13.4pt'>
+  <td width=576 valign=top style='width:432.1pt;padding:0in 0in 0in 0in;
+  height:13.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  style='font-size:12.0pt'>Robinson College of Business, Career Advancement
+  Center </span></b></p>
+  </td>
+  <td width=78 valign=top style='width:58.85pt;padding:0in 0in 0in 0in;
+  height:13.4pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.4pt;text-align:justify;text-justify:inter-ideograph;line-height:
+  normal'><span style='font-size:12.0pt'>Atlanta, GA<b> </b></span></p>
+  </td>
+ </tr>
+ <tr style='height:13.8pt'>
+  <td width=576 valign=top style='width:432.1pt;padding:0in 0in 0in 0in;
+  height:13.8pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i><span
+  style='font-size:12.0pt'>Graduate Research Assistant</span></i><span
+  style='font-size:12.0pt'>� </span></p>
+  </td>
+  <td width=78 valign=top style='width:58.85pt;padding:0in 0in 0in 0in;
+  height:13.8pt'>
+  <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal'><span style='font-size:12.0pt'>2020-2021 </span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:18.05pt;text-align:justify;text-justify:inter-ideograph;text-indent:
+-18.05pt;line-height:104%'><span style='font-size:16.0pt;line-height:104%;
+font-family:"Arial",sans-serif'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+104%'>Developed processes for the development of datasets, reporting
+automation, advanced models, and analysis</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:18.05pt;text-align:justify;text-justify:inter-ideograph;text-indent:
+-18.05pt;line-height:104%'><span style='font-size:16.0pt;line-height:104%;
+font-family:"Arial",sans-serif'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:
+104%'>Created marketing content designed to increase event visibility and
+student engagement</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.35pt;
+margin-left:18.05pt;text-align:justify;text-justify:inter-ideograph;line-height:
+104%'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
