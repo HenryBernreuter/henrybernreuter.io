@@ -2,8 +2,8 @@
 date: 2020-08-06
 layout: post
 title:  Split Variables from one column into several columns in R
-subtitle: Learn Python For Free
-description: Install Python
+subtitle: Learn R For Free
+description: Cool Tool for R
 image: /assets/img/Image_Template_760X399.png
 optimized_image: /assets/img/optimized_template_380X200.png
 category: tutorial
